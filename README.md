@@ -1,2 +1,2 @@
 # sass-tools
-Sass mixin, placeholder, and variable tools.
+Sass mixins, placeholders, and variables.
